@@ -1,0 +1,60 @@
+[
+{
+	"name"   : "A",	
+	"childs" : ["B", "C", "D"]
+},
+{
+	"name"  : "B",
+	"childs": ["E", "Y"]
+},
+
+{
+	"name"   : "C", 
+	"childs": ["F", "X", "Y"]
+},
+{	
+	"name"   : "D",
+	"childs": [] 
+	
+},
+{
+	"name"   : "X", 
+	"childs": ["Z"]
+},
+{
+	"name"  : "Y",
+	"childs": ["G"]
+},
+{
+	"name"   : "E",
+	"childs": ["G"]
+},
+{
+	"name"   : "F", 
+	"childs": ["H", "Z"]
+},
+{
+	"name"	 : "G",
+	"childs": ["K"] 	
+},
+{
+	"name"   : "Z", 
+	"childs": ["L"]
+},
+{
+	"name"   : "N", 
+	"childs": []
+},
+{
+	"name"   : "K", 
+	"childs": ["N"]
+},
+{
+	"name"   : "L", 
+	"childs": []
+},
+{
+	"name"	 : "H",
+	"childs": ["L", "K"] 	
+}
+]
